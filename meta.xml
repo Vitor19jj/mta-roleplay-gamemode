@@ -1,0 +1,5 @@
+<meta>
+    <info author = 'Vitor' version = '0.1' name = 'Meu Gamemode' type = 'script' />
+    <script src = 'Banco.lua' type = 'server' />
+    <script src = 'server.lua' type = 'server' />
+</meta>
